@@ -22,3 +22,18 @@
 </div>
 
 ###
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<a href="https://github.com/SEU_USUARIO">
+
+  <img
+    src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true&background=0D1117"
+    alt="GitHub Streak"
+  />
+
+</a>
+
+</div>
