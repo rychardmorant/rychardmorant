@@ -1,93 +1,234 @@
-# Hi 👋, I'm Herbert Souza
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Phoenix&fontSize=70&fontColor=9d4edd&animation=fadeIn&desc=Cybersecurity%20Research%20%26%20Development&descAlignY=75&descSize=20" width="100%" />
+</p>
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
-🇧🇷 Brazil
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Cybersecurity+Student+%7C+Penetration+Testing;Backend+Development+%7C+Python+%2B+Bash;Network+Security+%7C+Infrastructure+Hardening;Building+Secure+Systems+%7C+Breaking+Vulnerable+Ones" alt="Typing SVG" />
+  </a>
+</p>
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active_Learning-9d4edd?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Focus-Offensive_Security-9d4edd?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Location-São_Paulo,_BR-9d4edd?style=flat-square&labelColor=0d1117" />
+</p>
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+```bash
+┌──(phoenix㉿kali)-[~/profile]
+└─$ cat introduction.txt
+```
+
+## 0x00 // RECON
+
+**Cybersecurity student** focused on offensive security, system automation, and infrastructure hardening. Currently developing practical skills through hands-on projects, CTF challenges, and real-world lab environments. My approach combines security research with software development to build both defensive tools and understand attack vectors.
+
+**Learning Philosophy:** *"To defend systems effectively, you must first understand how they break."*
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 📡 Current Operations
+```yaml
+primary_focus:
+  - Penetration Testing Methodologies
+  - Vulnerability Research & Exploitation
+  - Network Traffic Analysis
+  - Secure Code Development
+
+active_projects:
+  - Custom automation tools (Python/Bash)
+  - Network reconnaissance frameworks
+  - Security audit scripts
+  - CTF challenge solutions
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Learning Path
+```yaml
+2024-2026:
+  ├─ Offensive Security Fundamentals
+  ├─ Network Protocol Analysis
+  ├─ Web Application Security
+  ├─ System Exploitation Techniques
+  └─ Secure Development Practices
+
+certifications_pursuing:
+  - CompTIA Security+
+  - CEH (Ethical Hacker)
+  - eJPT (Junior Pentester)
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Where to find me
+```bash
+┌──(phoenix㉿kali)-[~/profile]
+└─$ ls -la technical_stack/
+```
 
+## 0x01 // TECHNICAL ARSENAL
+
+### ⚔️ Offensive Security & Tools
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
+</p>
+
+### 🔧 Development & Scripting
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+### 🖥️ Systems & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</p>
+
+### 🔐 Security Concepts
+```python
+expertise_areas = {
+    "network_security": ["Port Scanning", "Traffic Analysis", "VPN/Proxy Chains"],
+    "web_security": ["OWASP Top 10", "SQL Injection", "XSS", "CSRF"],
+    "system_security": ["Privilege Escalation", "Lateral Movement", "Persistence"],
+    "cryptography": ["Hash Functions", "Encryption Standards", "PKI Basics"],
+    "automation": ["Security Scripts", "Log Analysis", "Automated Recon"]
+}
+```
+
+---
+
+```bash
+┌──(phoenix㉿kali)-[~/profile]
+└─$ cat projects.log | grep -E "active|completed"
+```
+
+## 0x02 // PROJECT SHOWCASE
+
+### 🛠️ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🎯 NET-P Scanner
+```bash
+$ ./net-p.sh --scan 192.168.1.0/24
+```
+**Bash-based network reconnaissance tool**
+- Cyberpunk-styled ANSI interface
+- Host discovery & port enumeration
+- Service detection & OS fingerprinting
+- Termux-compatible for mobile pentesting
+
+**Tech:** Bash, Nmap, Custom ANSI art
+
+</td>
+<td width="50%">
+
+#### 🖥️ System Monitor Widget
+```bash
+$ python3 monitor.py --mode desktop
+```
+**Real-time system metrics dashboard**
+- CPU, RAM, Network monitoring
+- Customizable aesthetic themes
+- PyWebView integration
+- Minimal resource footprint
+
+**Tech:** Python, PyWebView, HTML/CSS
+
+</td>
+</tr>
+</table>
+
+### 🎮 CTF & Practice Platforms
+```yaml
+active_platforms:
+  - TryHackMe: [Web Exploitation, Network Security]
+  - HackTheBox: [Penetration Testing Labs]
+  - PicoCTF: [Cryptography Challenges]
+  - OverTheWire: [Linux Security Wargames]
+  
+focus_areas:
+  - Binary Exploitation
+  - Reverse Engineering
+  - Web Application Security
+  - Privilege Escalation
+```
+
+---
+
+```bash
+┌──(phoenix㉿kali)-[~/profile]
+└─$ python3 generate_stats.py --user ArcanixPhoenix
+```
+
+## 0x03 // SYSTEM TELEMETRY
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArcanixPhoenix&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=9d4edd&fire=9d4edd&currStreakLabel=9d4edd" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ArcanixPhoenix">
+    <img src="https://github-readme-stats.vercel.app/api?username=ArcanixPhoenix&show_icons=true&theme=dark&hide_border=true&title_color=9d4edd&icon_color=9d4edd&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="180" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
-  </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://github.com/ArcanixPhoenix">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArcanixPhoenix&layout=compact&theme=dark&hide_border=true&title_color=9d4edd&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="180" />
   </a>
 </p>
 
 ---
 
-## 🧠 What I do
+```bash
+┌──(phoenix㉿kali)-[~/profile]
+└─$ echo $CONTACT_INFO
+```
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
+## 0x04 // NETWORK CONNECTIONS
 
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+<p align="center">
+  <a href="https://github.com/ArcanixPhoenix">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Philosophy
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
+</p>
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArcanixPhoenix&color=9d4edd&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
 
----
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+```bash
+┌──(phoenix㉿kali)-[~/profile]
+└─$ exit
+# "The quieter you become, the more you are able to hear." - Kali Linux
+```
