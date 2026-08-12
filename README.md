@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 RYCHARD MORANT
+#  RYCHARD SANTOS  
 
 ### `Developer in Progress`
 
