@@ -1,24 +1,28 @@
 <div align="center">
 
-<img src="./ryhard_programming_terminal_banner.gif" width="100%" alt="Rychard Santos Programming">
+<img src="./ryhard_programming_terminal_banner.gif" width="100%" alt="Rychard Santos Programming Banner">
 
 <br><br>
 
 # RYCHARD SANTOS
 
-### `< Developer in Progress />`
+### `</> Developer in Progress`
 
 `HTML` • `CSS` • `JavaScript` • `Python`
 
 <br>
 
 <a href="https://github.com/rychardmorant">
-<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://github.com/rychardmorant?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+<img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
 </a>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark&perline=7" alt="Tech Stack">
 
 </div>
 
@@ -31,20 +35,20 @@
 
 ## 👤 ABOUT ME
 
-**Rychard Santos**
+### Rychard Santos
 
-> Developer in Progress
+**Developer in Progress**
 
-Sou um desenvolvedor em formação, aprendendo programação através de projetos práticos.
+Sou um desenvolvedor em formação, focado em aprender programação através da prática e da criação de projetos.
 
-Atualmente estou focado em:
+Atualmente estudo principalmente:
 
 - ⚡ JavaScript
 - 🐍 Python
 - 🌐 HTML
 - 🎨 CSS
 
-Meu objetivo é evoluir minha lógica de programação, criar projetos reais e construir uma base sólida para desenvolvimento Web e Back-End.
+Meu objetivo é melhorar minha lógica de programação, criar projetos reais e evoluir constantemente como desenvolvedor.
 
 <br>
 
