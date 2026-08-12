@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="./ryhard_programming_terminal_banner.gif" width="100%" alt="Programming Banner">
+<img src="./ryhard_programming_terminal_banner.gif" width="100%" alt="Rychard Santos Programming">
 
 <br><br>
 
 # RYCHARD SANTOS
 
-### `</> Developer in Progress`
+### `< Developer in Progress />`
 
 `HTML` • `CSS` • `JavaScript` • `Python`
 
 <br>
 
 <a href="https://github.com/rychardmorant">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-&nbsp;
+
 <a href="https://github.com/rychardmorant?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
 </a>
 
 </div>
@@ -27,77 +27,30 @@
 <table>
 <tr>
 
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-## 👨‍💻 ABOUT ME
+## 👤 ABOUT ME
 
-Olá! Eu sou **Rychard Santos**, desenvolvedor em formação.
+**Rychard Santos**
 
-Estou construindo minha base em programação através de estudos e projetos práticos.
+> Developer in Progress
 
-Atualmente meu foco principal está em:
+Sou um desenvolvedor em formação, aprendendo programação através de projetos práticos.
+
+Atualmente estou focado em:
 
 - ⚡ JavaScript
 - 🐍 Python
 - 🌐 HTML
 - 🎨 CSS
 
-Meu objetivo é evoluir minha lógica de programação, construir projetos cada vez melhores e futuramente avançar para o desenvolvimento **Back-End**.
+Meu objetivo é evoluir minha lógica de programação, criar projetos reais e construir uma base sólida para desenvolvimento Web e Back-End.
 
-> `Code. Learn. Build. Repeat.`
-
-</td>
-
-<td width="45%" valign="top">
-
-## 🛠️ MY STACK
-
-### 🌐 Front-End
-
-`HTML`  
-`CSS`  
-`JavaScript`
-
-### 🐍 Programming
-
-`JavaScript`  
-`Python`
-
-### ⚙️ Tools
-
-`Git`  
-`GitHub`  
-`VS Code`
-
-### 🚀 Learning Next
-
-`Node.js`  
-`APIs`  
-`Databases`
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 📊 MY LANGUAGES
+<br>
 
 ```text
-HTML
-████████████████████ 100%
-
-CSS
-████████████████████ 100%
-
-JavaScript
-███████████████░░░░░  75%
-
-Python
-████████████░░░░░░░░  60%
+STATUS
+● Learning
+● Coding
+● Building
+● Improving
