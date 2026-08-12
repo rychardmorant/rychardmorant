@@ -1,100 +1,236 @@
 <div align="center">
 
-<img src="./ryhard_programming_terminal_banner.gif" width="100%" alt="Programming Terminal Animation">
+<img src="./ryhard_programming_terminal_banner.gif" width="100%" alt="Programming Banner">
 
 <br><br>
 
 # RYCHARD SANTOS
 
-### `Developer in Progress`
+### <code>&lt;/&gt; Developer in Progress</code>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Learning+%7C+Building+%7C+Improving;Code.+Learn.+Build.+Repeat." alt="Typing Animation">
+<b>HTML</b>
+&nbsp; • &nbsp;
+<b>CSS</b>
+&nbsp; • &nbsp;
+<b>JavaScript</b>
+&nbsp; • &nbsp;
+<b>Python</b>
 
 <br><br>
 
 <a href="https://github.com/rychardmorant">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
+&nbsp;
+
 <a href="https://github.com/rychardmorant?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+<img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
 </a>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark&perline=4" alt="HTML CSS JavaScript Python">
+<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark&perline=4" alt="Technologies">
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<table>
+<tr>
+
+<td width="25%" valign="top">
+
+## 👨‍💻 ABOUT ME
 
 Sou um desenvolvedor em formação, focado em aprender programação através da prática e da criação de projetos.
 
-Atualmente estudo principalmente:
-
-- ⚡ **JavaScript**
-- 🐍 **Python**
-- 🌐 **HTML**
-- 🎨 **CSS**
-
-Meu foco é desenvolver minha lógica de programação, criar projetos reais e evoluir constantemente como desenvolvedor.
-
-> `Code • Learn • Build • Repeat`
-
----
-
-## 💻 My Languages
-
-<div align="center">
-
-| Linguagem | Foco | Status |
-|:---:|:---:|:---:|
-| ⚡ JavaScript | Programação / Web | 🟢 Estudando |
-| 🐍 Python | Programação | 🟢 Estudando |
-| 🌐 HTML | Estrutura Web | 🟢 Estudando |
-| 🎨 CSS | Estilização Web | 🟢 Estudando |
+Meu objetivo é evoluir constantemente, melhorar minha lógica de programação e transformar conhecimento em projetos reais.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" alt="Programming Languages">
+> **"A cada linha de código, um passo para o futuro."**
+
+</td>
+
+<td width="25%" valign="top">
+
+## 📚 CURRENTLY LEARNING
+
+### ⚡ JavaScript
+
+`███████████████░░░░░` **75%**
+
+### 🐍 Python
+
+`████████████░░░░░░░░` **60%**
+
+### 🌐 HTML
+
+`████████████████████` **100%**
+
+### 🎨 CSS
+
+`████████████████████` **100%**
+
+</td>
+
+<td width="25%" valign="top">
+
+## 🚀 PROJECTS
+
+### 📊 Dashboard
+
+**JavaScript**
+
+🟢 Em andamento
+
+### 🌐 Web Projects
+
+**HTML + CSS**
+
+🟢 Em andamento
+
+### ⚡ JavaScript Projects
+
+**JavaScript**
+
+🟢 Em andamento
+
+### 🐍 Python Projects
+
+**Python**
+
+🟡 Estudando
+
+</td>
+
+<td width="25%" valign="top">
+
+## 🎯 ROADMAP
+
+### JavaScript
+
+`███████████████░░░░░` **75%**
+
+### Python
+
+`████████████░░░░░░░░` **60%**
+
+### Node.js
+
+`████████░░░░░░░░░░░░` **40%**
+
+### APIs
+
+`██████░░░░░░░░░░░░░░` **30%**
+
+### Databases
+
+`████░░░░░░░░░░░░░░░░` **20%**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🧠 LANGUAGES & TECHNOLOGIES
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark&perline=7" alt="Languages and Tools">
+
+<br><br>
+
+<table>
+<tr>
+<td align="center"><b>HTML</b></td>
+<td align="center"><b>CSS</b></td>
+<td align="center"><b>JavaScript</b></td>
+<td align="center"><b>Python</b></td>
+</tr>
+
+<tr>
+<td>████████████████████</td>
+<td>████████████████████</td>
+<td>███████████████░░░░░</td>
+<td>████████████░░░░░░░░</td>
+</tr>
+
+<tr>
+<td>100%</td>
+<td>100%</td>
+<td>75%</td>
+<td>60%</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 Language Focus
+## 📈 CONTRIBUTION STATUS
 
 <div align="center">
 
-| Linguagem | Nível de foco atual |
-|:---:|:---:|
-| ⚡ JavaScript | ███████████████░░░░░ 75% |
-| 🐍 Python | ████████████░░░░░░░░ 60% |
-| 🌐 HTML | ████████████████████ 100% |
-| 🎨 CSS | ████████████████████ 100% |
+<table>
+<tr>
 
-</div>
+<td align="center">
 
----
+### 💻 CODING
 
-## 🔥 Contribution Status
+🟢 **ACTIVE**
 
-<div align="center">
+</td>
+
+<td align="center">
+
+### 📚 LEARNING
+
+🟢 **ACTIVE**
+
+</td>
+
+<td align="center">
+
+### 🚀 BUILDING
+
+🟢 **ACTIVE**
+
+</td>
+
+<td align="center">
+
+### 🔥 IMPROVING
+
+🟢 **ACTIVE**
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   CONTRIBUTION STATUS                                │
-│                                                      │
-│   Coding        ████████████████████  ACTIVE         │
-│   Learning      ████████████████████  ACTIVE         │
-│   Building      ██████████████████░░  ACTIVE         │
-│   Improving     ████████████████████  ACTIVE         │
-│                                                      │
-│   STATUS: ● ONLINE                                   │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   > DEVELOPER STATUS                                     ║
+║                                                          ║
+║   HTML          [████████████████████] 100%              ║
+║   CSS           [████████████████████] 100%              ║
+║   JavaScript    [███████████████░░░░░]  75%              ║
+║   Python        [████████████░░░░░░░░]  60%              ║
+║                                                          ║
+║   > STATUS: ONLINE                                       ║
+║   > MODE: LEARNING                                       ║
+║   > FOCUS: BUILDING                                     ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
