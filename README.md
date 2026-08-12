@@ -1,46 +1,44 @@
 <div align="center">
 
-<img
-  src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif"
-  width="900"
-  alt="Programming Animation"
->
-
-<br><br>
-
 # RYCHARD SANTOS
 
 ### `Developer in Progress`
 
 <br>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Learning+%7C+Building+%7C+Improving;Code.+Learn.+Build.+Repeat."
-  alt="Typing Animation"
+> `▰ SYSTEM ONLINE ▰`
 >
+> `> Initializing developer...`
+>
+> `> Loading HTML .............. [████████████████████] 100%`
+>
+> `> Loading CSS ............... [████████████████████] 100%`
+>
+> `> Loading JavaScript ........ [███████████████░░░░░]  75%`
+>
+> `> Loading Python ............ [████████████░░░░░░░░]  60%`
+>
+> `> Developer: RYCHARD SANTOS`
+>
+> `> Status: ONLINE`
 
-<br><br>
+<br>
+
+`HTML` • `CSS` • `JavaScript` • `Python`
+
+<br>
 
 <a href="https://github.com/rychardmorant">
-<img
-  src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"
-  alt="GitHub"
->
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://github.com/rychardmorant?tab=repositories">
-<img
-  src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white"
-  alt="Repositories"
->
+<img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
 </a>
 
 <br><br>
 
-<img
-  src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark&perline=4"
-  alt="HTML CSS JavaScript Python"
->
+<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark&perline=4" alt="HTML CSS JavaScript Python">
 
 </div>
 
@@ -62,3 +60,69 @@ Meu foco é desenvolver minha lógica de programação, criar projetos reais e e
 > `Code • Learn • Build • Repeat`
 
 ---
+
+## 💻 Technologies
+
+<div align="center">
+
+| Tecnologia | Área | Status |
+|:---:|:---:|:---:|
+| ⚡ JavaScript | Programação / Web | 🟢 Estudando |
+| 🐍 Python | Programação | 🟢 Estudando |
+| 🌐 HTML | Desenvolvimento Web | 🟢 Estudando |
+| 🎨 CSS | Desenvolvimento Web | 🟢 Estudando |
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+```text
+JAVASCRIPT
+├── Variables
+├── Data Types
+├── Operators
+├── Conditions
+├── Loops
+├── Functions
+├── Arrays
+└── Objects
+
+PYTHON
+├── Variables
+├── Data Types
+├── Conditions
+├── Loops
+└── Functions
+
+WEB
+├── HTML
+├── CSS
+└── Responsive Design
+
+HTML
+████████████████████ 100%
+
+CSS
+████████████████████ 100%
+
+JavaScript
+███████████████░░░░░ 75%
+
+Python
+████████████░░░░░░░░ 60%
+
+Git & GitHub
+███████████████░░░░░ 75%
+
+Node.js
+████████░░░░░░░░░░░░ 40%
+
+APIs
+██████░░░░░░░░░░░░░░ 30%
+
+Databases
+████░░░░░░░░░░░░░░░░ 20%
+
+
