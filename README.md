@@ -4,14 +4,11 @@
 
 ### `Developer in Progress`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Learning+%7C+Building+%7C+Improving;Code.+Learn.+Build.+Repeat." alt="Typing">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Learning+%7C+Building+%7C+Improving;Code.+Learn.+Build.+Repeat." alt="Typing animation">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
+<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" alt="HTML CSS JavaScript Python">
 
 </div>
 
@@ -32,15 +29,16 @@ Meu objetivo é transformar conhecimento em projetos reais, melhorar minha lógi
 
 ---
 
-## 💻 My Stack
+## 💻 Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" alt="HTML CSS JavaScript Python">
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git GitHub VS Code Linux">
+| Technology | Focus |
+|:---:|:---|
+| ⚡ JavaScript | Lógica, funções, arrays, objetos e APIs |
+| 🐍 Python | Lógica, funções e automação |
+| 🌐 HTML | Estrutura e semântica |
+| 🎨 CSS | Flexbox, Grid e responsividade |
 
 </div>
 
@@ -50,7 +48,7 @@ Meu objetivo é transformar conhecimento em projetos reais, melhorar minha lógi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rychardmorant&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Statistics">
+<img src="./profile/stats.svg" alt="GitHub Statistics">
 
 </div>
 
@@ -60,18 +58,7 @@ Meu objetivo é transformar conhecimento em projetos reais, melhorar minha lógi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rychardmorant&layout=compact&langs_count=4&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E" alt="Most Used Languages">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
-<img src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS">
+<img src="./profile/top-langs.svg" alt="Most Used Languages">
 
 </div>
 
@@ -81,21 +68,21 @@ Meu objetivo é transformar conhecimento em projetos reais, melhorar minha lógi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=rychardmorant&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E" alt="GitHub Streak">
+<img src="./profile/streak.svg" alt="GitHub Contribution Streak">
 
 </div>
 
 ---
 
-# 👾 Projects
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700" alt="Pacman Animation">
-
-<br><br>
-
-### `HTML` → `CSS` → `JAVASCRIPT` → `PYTHON`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg">
+  <img src="./profile/github-snake.svg" alt="GitHub Contribution Snake">
+</picture>
 
 </div>
 
@@ -105,27 +92,12 @@ Meu objetivo é transformar conhecimento em projetos reais, melhorar minha lógi
 
 <div align="center">
 
-| Projeto | Tecnologia | Status |
+| Project | Technology | Status |
 |:---:|:---:|:---:|
-| 📊 Dashboard | JavaScript | 🟢 Desenvolvendo |
-| 🌐 Web Projects | HTML + CSS | 🟢 Desenvolvendo |
-| ⚡ JavaScript Projects | JavaScript | 🟡 Estudando |
-| 🐍 Python Projects | Python | 🟡 Estudando |
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-| Tecnologia | Foco |
-|:---:|:---|
-| ⚡ JavaScript | Lógica, funções, arrays, objetos e APIs |
-| 🐍 Python | Lógica, funções e automação |
-| 🌐 HTML | Estrutura e semântica |
-| 🎨 CSS | Flexbox, Grid e responsividade |
+| 📊 Dashboard | JavaScript | 🟢 Developing |
+| 🌐 Web Projects | HTML + CSS | 🟢 Developing |
+| ⚡ JavaScript Projects | JavaScript | 🟢 Learning |
+| 🐍 Python Projects | Python | 🟡 Learning |
 
 </div>
 
@@ -146,7 +118,7 @@ JavaScript
 Python
 ████████████░░░░░░░░  60%
 
-Git & GitHub
+Git / GitHub
 ███████████████░░░░░  75%
 
 Node.js
@@ -157,4 +129,3 @@ APIs
 
 Databases
 ████░░░░░░░░░░░░░░░░  20%
-
