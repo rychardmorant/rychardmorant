@@ -1,39 +1,25 @@
 <div align="center">
 
+<img src="./ryhard_programming_terminal_banner.gif" width="100%" alt="Programming Terminal Animation">
+
+<br><br>
+
 # RYCHARD SANTOS
 
 ### `Developer in Progress`
 
 <br>
 
-> `▰ SYSTEM ONLINE ▰`
->
-> `> Initializing developer...`
->
-> `> Loading HTML .............. [████████████████████] 100%`
->
-> `> Loading CSS ............... [████████████████████] 100%`
->
-> `> Loading JavaScript ........ [███████████████░░░░░]  75%`
->
-> `> Loading Python ............ [████████████░░░░░░░░]  60%`
->
-> `> Developer: RYCHARD SANTOS`
->
-> `> Status: ONLINE`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Learning+%7C+Building+%7C+Improving;Code.+Learn.+Build.+Repeat." alt="Typing Animation">
 
-<br>
-
-`HTML` • `CSS` • `JavaScript` • `Python`
-
-<br>
+<br><br>
 
 <a href="https://github.com/rychardmorant">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://github.com/rychardmorant?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
+<img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
 </a>
 
 <br><br>
@@ -61,19 +47,54 @@ Meu foco é desenvolver minha lógica de programação, criar projetos reais e e
 
 ---
 
-## 💻 Technologies
+## 💻 My Languages
 
 <div align="center">
 
-| Tecnologia | Área | Status |
+| Linguagem | Foco | Status |
 |:---:|:---:|:---:|
 | ⚡ JavaScript | Programação / Web | 🟢 Estudando |
 | 🐍 Python | Programação | 🟢 Estudando |
-| 🌐 HTML | Desenvolvimento Web | 🟢 Estudando |
-| 🎨 CSS | Desenvolvimento Web | 🟢 Estudando |
+| 🌐 HTML | Estrutura Web | 🟢 Estudando |
+| 🎨 CSS | Estilização Web | 🟢 Estudando |
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" alt="Programming Languages">
 
 </div>
 
 ---
 
+## 📊 Language Focus
 
+<div align="center">
+
+| Linguagem | Nível de foco atual |
+|:---:|:---:|
+| ⚡ JavaScript | ███████████████░░░░░ 75% |
+| 🐍 Python | ████████████░░░░░░░░ 60% |
+| 🌐 HTML | ████████████████████ 100% |
+| 🎨 CSS | ████████████████████ 100% |
+
+</div>
+
+---
+
+## 🔥 Contribution Status
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   CONTRIBUTION STATUS                                │
+│                                                      │
+│   Coding        ████████████████████  ACTIVE         │
+│   Learning      ████████████████████  ACTIVE         │
+│   Building      ██████████████████░░  ACTIVE         │
+│   Improving     ████████████████████  ACTIVE         │
+│                                                      │
+│   STATUS: ● ONLINE                                   │
+│                                                      │
+└──────────────────────────────────────────────────────┘
