@@ -4,9 +4,19 @@
 
 ### `Developer in Progress`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Building+projects+every+day;Learning+%7C+Coding+%7C+Improving;Code.+Learn.+Build.+Repeat.">
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Learning+%7C+Building+%7C+Improving;Code.+Learn.+Build.+Repeat." alt="Typing">
 
 <br><br>
+
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
+
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
 
 </div>
 
@@ -14,102 +24,78 @@
 
 ## 👨‍💻 About Me
 
-Sou um desenvolvedor em formação, apaixonado por tecnologia e programação.
+Sou um desenvolvedor em formação, focado em aprender programação através da prática e da criação de projetos.
 
-Atualmente estou focado principalmente em:
+Atualmente estudo principalmente **JavaScript, Python, HTML e CSS**, buscando melhorar minha lógica de programação e transformar o que aprendo em projetos reais.
 
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-- 🐍 Python
+```text
+Focus
+│
+├── JavaScript
+├── Python
+├── HTML
+└── CSS
+```
 
-Estou estudando programação através da criação de projetos, prática constante e evolução da minha lógica de programação.
-
-Meu objetivo é transformar conhecimento em projetos reais e evoluir constantemente como desenvolvedor.
+Meu objetivo é evoluir constantemente, construir projetos cada vez melhores e me tornar um desenvolvedor profissional.
 
 ---
 
-# 💻 My Languages
+## 💻 My Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python" />
+<img src="https://skillicons.dev/icons?i=js,python,html,css&theme=dark&perline=4" alt="My Skills">
 
 <br><br>
 
-<table>
-<tr>
-<td align="center">
+<img src="https://img.shields.io/badge/JavaScript-Main%20Language-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45">
+<img src="https://img.shields.io/badge/Python-Studying-0D1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
 
-<br>
+<img src="https://img.shields.io/badge/HTML-Web-0D1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML">
 
-<b>JavaScript</b>
-
-<br>
-
-`Primary`
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45">
-
-<br>
-
-<b>Python</b>
-
-<br>
-
-`Learning`
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45">
-
-<br>
-
-<b>HTML</b>
-
-<br>
-
-`Web`
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45">
-
-<br>
-
-<b>CSS</b>
-
-<br>
-
-`Web`
-
-</td>
-
-</tr>
-</table>
+<img src="https://img.shields.io/badge/CSS-Web-0D1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS">
 
 </div>
 
 ---
 
-# 📊 Most Used Languages
+# 📊 GitHub Activity
 
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=donut&langs_count=4&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E"
+src="https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E"
+alt="GitHub Contribution Streak"
+
+>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E&mode=weekly"
+alt="GitHub Activity"
+
+>
+
+</div>
+
+---
+
+# 🧠 Most Used Languages
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=4&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E"
 alt="Most Used Languages"
-/>
+
+>
 
 </div>
 
@@ -117,147 +103,17 @@ alt="Most Used Languages"
 
 <div align="center">
 
-> O ranking acima é calculado automaticamente com base no código existente nos meus repositórios.
+### My main languages
 
-</div>
+<br>
 
----
+<img src="https://img.shields.io/badge/JavaScript-Primary-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 
-# 📈 GitHub Statistics
+<img src="https://img.shields.io/badge/Python-Primary-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
 
-<div align="center">
+<img src="https://img.shields.io/badge/HTML5-Primary-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML">
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF&include_all_commits=true"
-alt="GitHub Statistics"
-/>
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=4&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E"
-alt="Languages"
-/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"
-alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-# 👾 Projects
-
-<div align="center">
-
-<svg width="850" height="220" viewBox="0 0 850 220">
-
-<rect
-x="5"
-y="5"
-width="840"
-height="210"
-rx="15"
-fill="#0D1117"
-stroke="#30363D"
-stroke-width="2"
-/>
-
-<!-- Dots -->
-
-<g fill="white">
-
-<circle cx="60" cy="55" r="3"/>
-<circle cx="90" cy="55" r="3"/>
-<circle cx="120" cy="55" r="3"/>
-<circle cx="150" cy="55" r="3"/>
-<circle cx="180" cy="55" r="3"/>
-<circle cx="210" cy="55" r="3"/>
-<circle cx="240" cy="55" r="3"/>
-<circle cx="270" cy="55" r="3"/>
-<circle cx="300" cy="55" r="3"/>
-<circle cx="330" cy="55" r="3"/>
-<circle cx="360" cy="55" r="3"/>
-<circle cx="390" cy="55" r="3"/>
-<circle cx="420" cy="55" r="3"/>
-<circle cx="450" cy="55" r="3"/>
-<circle cx="480" cy="55" r="3"/>
-<circle cx="510" cy="55" r="3"/>
-<circle cx="540" cy="55" r="3"/>
-<circle cx="570" cy="55" r="3"/>
-<circle cx="600" cy="55" r="3"/>
-<circle cx="630" cy="55" r="3"/>
-<circle cx="660" cy="55" r="3"/>
-<circle cx="690" cy="55" r="3"/>
-<circle cx="720" cy="55" r="3"/>
-<circle cx="750" cy="55" r="3"/>
-<circle cx="780" cy="55" r="3"/>
-
-</g>
-
-<!-- Project names -->
-
-<g
-font-family="monospace"
-font-size="14"
-font-weight="bold"
-fill="white"
-text-anchor="middle"
->
-
-<text x="170" y="120">HTML</text>
-
-<text x="330" y="120">CSS</text>
-
-<text x="500" y="120">JAVASCRIPT</text>
-
-<text x="680" y="120">PYTHON</text>
-
-</g>
-
-<!-- Pacman -->
-
-<g>
-
-<animateTransform
-attributeName="transform"
-type="translate"
-values="45 120;800 120;45 120"
-dur="8s"
-repeatCount="indefinite"
-/>
-
-<path
-fill="#FFD600"
-d="M0 -20 A20 20 0 1 1 0 20 L20 0 Z"
->
-
-<animate
-attributeName="d"
-dur="0.4s"
-repeatCount="indefinite"
-values="
-M0 -20 A20 20 0 1 1 0 20 L20 0 Z;
-M0 -20 A20 20 0 1 1 0 20 L20 -5 Z;
-M0 -20 A20 20 0 1 1 0 20 L20 0 Z
-"
-/>
-
-</path>
-
-</g>
-
-</svg>
+<img src="https://img.shields.io/badge/CSS3-Primary-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS">
 
 </div>
 
@@ -267,12 +123,21 @@ M0 -20 A20 20 0 1 1 0 20 L20 0 Z
 
 <div align="center">
 
-| Projeto | Tecnologia | Status |
-|:---:|:---:|:---:|
-| 🌐 Web Projects | HTML + CSS | 🟢 Active |
-| ⚡ JavaScript Projects | JavaScript | 🟢 Active |
-| 🐍 Python Projects | Python | 🟡 Learning |
-| 📊 Dashboard | JavaScript | 🟡 Developing |
+### 📊 Dashboard
+
+Dashboard desenvolvido para praticar **HTML, CSS e JavaScript**.
+
+### 🌐 Web Projects
+
+Projetos de desenvolvimento web para praticar estrutura, estilização e lógica.
+
+### ⚡ JavaScript Projects
+
+Projetos focados em lógica, funções, arrays, objetos e manipulação de dados.
+
+### 🐍 Python Projects
+
+Projetos desenvolvidos durante meus estudos de Python.
 
 </div>
 
@@ -282,17 +147,77 @@ M0 -20 A20 20 0 1 1 0 20 L20 0 Z
 
 <div align="center">
 
+|   Tecnologia  | Foco                                    |
+| :-----------: | :-------------------------------------- |
+| 🟨 JavaScript | Lógica, funções, arrays, objetos e APIs |
+|   🐍 Python   | Lógica, funções e automação             |
+|    🌐 HTML    | Estrutura e semântica                   |
+|     🎨 CSS    | Flexbox, Grid e responsividade          |
+
+</div>
+
+---
+
+# 🎯 Roadmap
+
 ```text
 HTML
-  ↓
+████████████████████ 100%
+
 CSS
-  ↓
+████████████████████ 100%
+
 JavaScript
-  ↓
+███████████████░░░░░  75%
+
 Python
-  ↓
+████████████░░░░░░░░  60%
+
+Git / GitHub
+███████████████░░░░░  75%
+
+Node.js
+████████░░░░░░░░░░░░  40%
+
 APIs
-  ↓
-Back-End
-  ↓
+██████░░░░░░░░░░░░░░  30%
+
 Databases
+████░░░░░░░░░░░░░░░░  20%
+```
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/main/assets/preview.png"
+width="700"
+alt="Contribution Activity Preview"
+
+>
+
+</div>
+
+<br>
+
+> O gráfico oficial de contribuições continua aparecendo diretamente no seu perfil do GitHub, abaixo do README.
+
+---
+
+<div align="center">
+
+## `CODE • LEARN • BUILD • REPEAT`
+
+<br>
+
+<img
+src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS"
+alt="Profile Views"
+
+>
+
+</div>
+
