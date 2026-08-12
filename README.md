@@ -1,56 +1,103 @@
 <div align="center">
 
-<img src="./ryhard_programming_terminal_banner.gif" width="100%" alt="Rychard Santos Programming Banner">
+<img src="./ryhard_programming_terminal_banner.gif" width="100%" alt="Programming Banner">
 
 <br><br>
 
 # RYCHARD SANTOS
 
-### `< Developer in Progress />`
+### `</> Developer in Progress`
+
+`HTML` • `CSS` • `JavaScript` • `Python`
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Building+projects+and+learning+every+day;Code.+Learn.+Build.+Repeat." alt="Typing Animation">
-
-<br><br>
-
 <a href="https://github.com/rychardmorant">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
+&nbsp;
 <a href="https://github.com/rychardmorant?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Projects">
+<img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark&perline=7" alt="Tech Stack">
 
 </div>
 
 ---
 
-<div align="center">
+<table>
+<tr>
 
-## ⚡ DEVELOPER PROFILE
+<td width="55%" valign="top">
+
+## 👨‍💻 ABOUT ME
+
+Olá! Eu sou **Rychard Santos**, desenvolvedor em formação.
+
+Estou construindo minha base em programação através de estudos e projetos práticos.
+
+Atualmente meu foco principal está em:
+
+- ⚡ JavaScript
+- 🐍 Python
+- 🌐 HTML
+- 🎨 CSS
+
+Meu objetivo é evoluir minha lógica de programação, construir projetos cada vez melhores e futuramente avançar para o desenvolvimento **Back-End**.
+
+> `Code. Learn. Build. Repeat.`
+
+</td>
+
+<td width="45%" valign="top">
+
+## 🛠️ MY STACK
+
+### 🌐 Front-End
+
+`HTML`  
+`CSS`  
+`JavaScript`
+
+### 🐍 Programming
+
+`JavaScript`  
+`Python`
+
+### ⚙️ Tools
+
+`Git`  
+`GitHub`  
+`VS Code`
+
+### 🚀 Learning Next
+
+`Node.js`  
+`APIs`  
+`Databases`
+
+</td>
+
+</tr>
+</table>
+
+---
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 👨‍💻 ABOUT ME
-
-Sou um desenvolvedor em formação apaixonado por tecnologia e programação.
-
-Atualmente estou focado em **JavaScript, Python, HTML e CSS**, desenvolvendo projetos para transformar conhecimento em prática.
-
-Meu objetivo é evoluir minha **lógica de programação**, criar projetos cada vez melhores e construir uma base sólida para desenvolvimento **Front-End e Back-End**.
-
-<br>
+## 📊 MY LANGUAGES
 
 ```text
-> Learning
-> Building
-> Debugging
-> Improving
+HTML
+████████████████████ 100%
+
+CSS
+████████████████████ 100%
+
+JavaScript
+███████████████░░░░░  75%
+
+Python
+████████████░░░░░░░░  60%
